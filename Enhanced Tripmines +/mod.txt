@@ -1,0 +1,37 @@
+{
+	"name" : "Enhanced Tripmines +",
+	"description" : "This mod allows sensor-mode trip mines to highlight non-special enemies in loud. And our mines can be immune to all damage when in sensor mode. Other players will not be able to change the mode of your trip mines, only you can.",
+	"author" : "Original by BB-Pio, added settings menu and more features by KXSAVS3CH",
+	"contact" : "/n https://steamcommunity.com/id/kosavsechindabuilding/ or /n https://modworkshop.net/mod/28048",
+	"version" : "3.8",
+	"updates" : [
+		{
+			"identifier" : "pd2_Enhanced_Tripmines_Plus",
+			"host": {
+			"meta": "https://github.com/kosavsech/PD2_Enhanced_Tripmines_Plus-master/releases/download/refs%2Fheads%2Fmaster/meta.json"
+			}
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "lua/menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/units/weapons/trip_mine/tripminebase",
+			"script_path" : "lua/main.lua"
+		},
+		{
+			"hook_id" : "lib/network/handlers/unitnetworkhandler",
+			"script_path" : "lua/main.lua"
+		},
+		{
+			"hook_id" : "lib/units/contourext",
+			"script_path" : "lua/main.lua"
+		},
+		{
+			"hook_id" : "lib/units/interactions/interactionext",
+			"script_path" : "lua/main.lua"
+		}
+	]
+}

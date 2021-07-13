@@ -1,0 +1,120 @@
+{
+	"Enhanced_Tripmines_Plus_main_menu_title" : "Enhanced Tripmines +",
+	"Enhanced_Tripmines_Plus_main_menu_desc" : "bla bla bla",
+	
+	"Enhanced_Tripmines_Plus_loc_title" : "Language",
+	"Enhanced_Tripmines_Plus_loc_desc" : "Select Language",
+
+	"Enhanced_Tripmines_Plus_marking_title" : "Who wil be marked",
+	"Enhanced_Tripmines_Plus_marking_desc" : "Change, who will be marked by your mines.",
+	
+	"Enhanced_Tripmines_Plus_invincibility_title" : "Invicibility of mines",
+	"Enhanced_Tripmines_Plus_invincibility_desc" : "Change, ability to blow mines up with a shot in sensor mode.",
+	
+	"Enhanced_Tripmines_Plus_beeps_title" : "Beeps",
+	"Enhanced_Tripmines_Plus_beeps_desc" : "Change, the mechanics of the beeps of your trip mines.",
+	
+	"Enhanced_Tripmines_Plus_changables_title" : "Revert mode changes by others",
+	"Enhanced_Tripmines_Plus_changables_desc" : "Immediately revert any mode changes made to our tripmines by other players.",
+
+	"Enhanced_Tripmines_Plus_changables_self_title" : "Block mode changes by self",
+	"Enhanced_Tripmines_Plus_changables_self_desc" : "Block explosion mode changes made by self.",
+	
+	"Enhanced_Tripmines_Plus_other_beeps_title" : "Beeps for others",
+	"Enhanced_Tripmines_Plus_other_beeps_desc" : "Change, ability to hear other players beeps of your mines.",
+	
+	"Enhanced_Tripmines_Plus_sensor_title" : "Sensor Mode",
+	"Enhanced_Tripmines_Plus_sensor_desc" : "Change, auto-sensor mode to your mines.",
+	
+	"Enhanced_Tripmines_Plus_marking_1" : "All",
+	"Enhanced_Tripmines_Plus_marking_2" : "Specials",
+	
+	"Enhanced_Tripmines_Plus_beeps_1" : "On",
+	"Enhanced_Tripmines_Plus_beeps_2" : "Off",
+	"Enhanced_Tripmines_Plus_beeps_3" : "Only on stealth",
+	"Enhanced_Tripmines_Plus_beeps_4" : "Only on loud",
+	
+	"Enhanced_Tripmines_Plus_loc_eng" : "English",
+	"Enhanced_Tripmines_Plus_loc_spa" : "Spanish",
+	"Enhanced_Tripmines_Plus_loc_rus" : "Russian",
+
+	"Enhanced_Tripmines_Plus_colors_title" : "Colors",
+    "Enhanced_Tripmines_Plus_colors_desc": "Customize mine contour color",
+
+	"civilian_color_mode_title" : "Civilian color mode",
+    "civilian_color_mode_desc": "",
+
+	"civilian_female_color_mode_title" : "Civilian female color mode",
+    "civilian_female_color_mode_desc": "",
+
+	"spooc_color_mode_title" : "Cloaker color mode",
+    "spooc_color_mode_desc": "",
+
+	"taser_color_mode_title" : "Taser color mode",
+    "taser_color_mode_desc": "",
+
+	"shield_color_mode_title" : "Shield color mode",
+    "shield_color_mode_desc": "",
+
+	"tank_color_mode_title" : "Bulldoser color mode",
+    "tank_color_mode_desc": "",
+
+	"sniper_color_mode_title" : "Sniper color mode",
+    "sniper_color_mode_desc": "",
+
+	"medic_color_mode_title" : "Medic color mode",
+    "medic_color_mode_desc": "",
+
+	"gangster_color_mode_title" : "Gangster color mode",
+    "gangster_color_mode_desc": "",
+
+	"security_color_mode_title" : "Security color mode",
+    "security_color_mode_desc": "",
+
+	"fbi_color_mode_title" : "FBI color mode",
+    "fbi_color_mode_desc": "",
+
+	"heavy_swat_color_mode_title" : "Heavy Swat color mode",
+    "heavy_swat_color_mode_desc": "",
+
+	"fbi_heavy_swat_color_mode_title" : "FBI Heavy Swat color mode",
+    "fbi_heavy_swat_color_mode_desc": "",
+
+	"heavy_swat_sniper_color_mode_title" : "Heavy Swat Sniper color mode",
+    "heavy_swat_sniper_color_mode_desc": "",
+
+	"tank_hw_color_mode_title" : "Headless Doser color mode",
+    "tank_hw_color_mode_desc": "",
+
+	"tank_medic_color_mode_title" : "Medic Doser color mode",
+    "tank_medic_color_mode_desc": "",
+
+	"tank_mini_color_mode_title" : "Minigun Doser color mode",
+    "tank_mini_color_mode_desc": "",
+
+	"phalanx_minion_color_mode_title" : "Capitan Shield color mode",
+    "phalanx_minion_color_mode_desc": "",
+
+	"phalanx_vip_color_mode_title" : "Captain Winters color mode",
+    "phalanx_vip_color_mode_desc": "",
+
+	"city_swat_color_mode_title" : "Elite swat color mode",
+    "city_swat_color_mode_desc": "",
+
+	"r_colorslider_title" : "RED",
+    "r_colorslider_desc": "",
+
+	"g_colorslider_title" : "GREEN",
+    "g_colorslider_desc": "",
+
+	"b_colorslider_title" : "BLUE",
+    "b_colorslider_desc": "",
+
+	"ColorPicker_button_title" : "Color",
+	
+	"ColorPicker_default_button_title" : "Default Color",
+    "colorslider_desc": "Change default color which will apply to all not mentioned unit or if u choose default color mode",
+
+	"default" : "Default",
+    "custom": "Custom"
+}

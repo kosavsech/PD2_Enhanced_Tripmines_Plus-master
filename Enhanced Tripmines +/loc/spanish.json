@@ -1,0 +1,117 @@
+{
+	"Enhanced_Tripmines_Plus_main_menu_title" : "Enhanced Tripmines +",
+	"Enhanced_Tripmines_Plus_main_menu_desc" : "",
+
+	"Enhanced_Tripmines_Plus_loc_title" : "Lenguaje",
+	"Enhanced_Tripmines_Plus_loc_desc" : "Selecciona un lenguaje",
+
+	"Enhanced_Tripmines_Plus_marking_title" : "Quien será marcado",
+	"Enhanced_Tripmines_Plus_marking_desc" : "Cambia quien será marcado por tus minas.",
+
+	"Enhanced_Tripmines_Plus_invincibility_title" : "Invencibilidad de las minas",
+	"Enhanced_Tripmines_Plus_invincibility_desc" : "Cambia la posibilidad de explotar las minas al ser disparadas en modo sensor.",
+
+	"Enhanced_Tripmines_Plus_beeps_title" : "Bips",
+	"Enhanced_Tripmines_Plus_beeps_desc" : "Cambia la posibilidad de que suenen Bips en tus minas al marcar.",
+
+	"Enhanced_Tripmines_Plus_changables_title" : "Revertir cambios de modos por otros jugadores",
+	"Enhanced_Tripmines_Plus_changables_desc" : "Inmediatamente revertir cualquier cambio de modo hechos a tus minas laser por otros jugadores.",
+
+	"Enhanced_Tripmines_Plus_changables_self_title" : "Block mode changes by self",
+	"Enhanced_Tripmines_Plus_changables_self_desc" : "Block of any mode changes made by self.",
+
+	"Enhanced_Tripmines_Plus_other_beeps_title" : "Bips para otros jugadores",
+	"Enhanced_Tripmines_Plus_other_beeps_desc" : "Cambia la habilidad de que otros jugadores oigan los Bips de tus minas laser.",
+
+	"Enhanced_Tripmines_Plus_sensor_title" : "Modo Sensor",
+	"Enhanced_Tripmines_Plus_sensor_desc" : "Activa o desactiva la posibilidad de que tus minas laser se pongan automaticamente en modo Sensor.",
+
+	"Enhanced_Tripmines_Plus_marking_1" : "Todo",
+	"Enhanced_Tripmines_Plus_marking_2" : "Unidades Especiales",
+
+	"Enhanced_Tripmines_Plus_beeps_1" : "Activado",
+	"Enhanced_Tripmines_Plus_beeps_2" : "Desactivado",
+	"Enhanced_Tripmines_Plus_beeps_3" : "Solo en Sigilo",
+	"Enhanced_Tripmines_Plus_beeps_4" : "Solo en Asalto",
+
+	"Enhanced_Tripmines_Plus_loc_eng" : "English",
+	"Enhanced_Tripmines_Plus_loc_spa" : "Spanish",
+	"Enhanced_Tripmines_Plus_loc_rus" : "Russian",
+
+	"Enhanced_Tripmines_Plus_colors_title" : "Colors",
+    "Enhanced_Tripmines_Plus_colors_desc": "Customize mine contour color",
+
+	"civilian_color_mode_title" : "Civilian color mode",
+    "civilian_color_mode_desc": "",
+
+	"civilian_female_color_mode_title" : "Civilian female color mode",
+    "civilian_female_color_mode_desc": "",
+
+	"spooc_color_mode_title" : "Cloaker color mode",
+    "spooc_color_mode_desc": "",
+
+	"taser_color_mode_title" : "Taser color mode",
+    "taser_color_mode_desc": "",
+
+	"shield_color_mode_title" : "Shield color mode",
+    "shield_color_mode_desc": "",
+
+	"tank_color_mode_title" : "Bulldoser color mode",
+    "tank_color_mode_desc": "",
+
+	"sniper_color_mode_title" : "Sniper color mode",
+    "sniper_color_mode_desc": "",
+
+	"medic_color_mode_title" : "Medic color mode",
+    "medic_color_mode_desc": "",
+
+	"gangster_color_mode_title" : "Gangster color mode",
+    "gangster_color_mode_desc": "",
+
+	"security_color_mode_title" : "Security color mode",
+    "security_color_mode_desc": "",
+
+	"fbi_color_mode_title" : "FBI color mode",
+    "fbi_color_mode_desc": "",
+
+	"heavy_swat_color_mode_title" : "Heavy Swat color mode",
+    "heavy_swat_color_mode_desc": "",
+
+	"fbi_heavy_swat_color_mode_title" : "FBI Heavy Swat color mode",
+    "fbi_heavy_swat_color_mode_desc": "",
+
+	"heavy_swat_sniper_color_mode_title" : "Heavy Swat Sniper color mode",
+    "heavy_swat_sniper_color_mode_desc": "",
+
+	"tank_hw_color_mode_title" : "Headless Doser color mode",
+    "tank_hw_color_mode_desc": "",
+
+	"tank_medic_color_mode_title" : "Medic Doser color mode",
+    "tank_medic_color_mode_desc": "",
+
+	"tank_mini_color_mode_title" : "Minigun Doser color mode",
+    "tank_mini_color_mode_desc": "",
+
+	"phalanx_minion_color_mode_title" : "Capitan Shield color mode",
+    "phalanx_minion_color_mode_desc": "",
+
+	"phalanx_vip_color_mode_title" : "Captain Winters color mode",
+    "phalanx_vip_color_mode_desc": "",
+
+	"city_swat_color_mode_title" : "Elite swat color mode",
+    "city_swat_color_mode_desc": "",
+
+	"r_colorslider_title" : "RED",
+    "r_colorslider_desc": "",
+
+	"g_colorslider_title" : "GREEN",
+    "g_colorslider_desc": "",
+
+	"b_colorslider_title" : "BLUE",
+    "b_colorslider_desc": "",
+	
+    "colorslider_desc": "Change default color which will apply to all not mentioned unit or if u choose default color mode",
+	
+	"default" : "Default",
+    "custom": "Custom"
+}
